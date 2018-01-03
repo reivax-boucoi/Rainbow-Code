@@ -8,50 +8,30 @@
 
 All times are in EDT and are subject to change! You can confirm the exact time by visiting [The Coding Train Live](https://www.youtube.com/user/shiffman/) the day of.
 
-### Friday, Nov 17: 4pm - 6pm
-* Continue Chrome Extensions
-   * pop-up
-   * pop-up with messages
-   * tab override
-   * omnibox (probably should skip)
-   * API lookup
-   * persistent data with local storage
-* *Browser* extensions
-* WEBGL revisited
+### TBA
+* Topics TBA
+
+# Topics Under Consideration
+* word2vec
+* K-means clustering?
+* Mappa p5 library (traveling sales on a map?)
+* boids coding challenge
+* Promises
+* Bayesian text classification
 * `exec()` with node (densecap with p5 and node?)
 * iTerm
-* more OOP in JS
-
-### ~Friday, Nov 24~: No Stream, Thanksgiving
-
-### Friday, Dec 1: 10:30am - 12:30pm
-* more OOP in JS
 * Alexa skill 
 * dialogflow
-* map(), reduce() array functions
-
-### Friday, Dec 8: 3pm - 5pm
-* word2vec
-* Promises
-
-### Wednesday, Dec 13: Bonus November Makeup!
-* Bayesian text classification
-
-### Friday, Dec 15: 10:30am - 12:30pm
-* Topics TBA
-
-### Monday, Dec 18: ITP Show live stream!
-
-### Wednesday, Dec 20: Holiday Extravaganza!
-* Topics TBA
-
-# Other topics I'm considering soon
-* Mappa p5 library (traveling sales on a map?)
-* game of life coding challenge
-* boids coding challenge
 
 # Past Live Streams
-* [Live Stream #106.1: Chrome Extensions - Part 1](https://youtu.be/Z9pzHD2g08o?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #112: Happy Holidays from the Coding Train!](https://youtu.be/dEWmwQMKgIk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #111: More WebGL with p5.js!](https://youtu.be/Xiu8pbHtrEY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #110: WebGL with p5.js Continued](https://youtu.be/4ncCxWm6jj0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #109: WebGL with p5.js](https://youtu.be/Gi9PuLHlzzI?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #108: More OOP with ES6 & The Game of Life](https://youtu.be/U8S1qDjIE2Y?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #107: Chrome Extensions Continued](https://youtu.be/h3p0U8yWrMU?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #106.2: Chrome Extensions - Part 2](https://youtu.be/y0zS83xj0g0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #106.1: Chrome Extensions - Part 1](https://youtu.be/Z9pzHD2g0Ao?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #105: p5.js Workflow, Circle Morphing and Arrow Function](https://youtu.be/ldx_J589fcs?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #104: Chatbots with p5.Speech, More OOP in JS & Paperclips!](https://youtu.be/gFqBnxIm5Us?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #103: More on JavaScript Objects & Chatbots with RiveScript](https://youtu.be/Pscq691SADc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
@@ -137,15 +117,15 @@ All times are in EDT and are subject to change! You can confirm the exact time b
 * [Live Stream #29: Processing and p5.js - Slit-scan and Seriously.js](https://youtu.be/CQpGhT-RLkM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #28: Hamilton Lottery Simulator - Probability and DOM](https://youtu.be/B8tpfNH2gvM?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #27: Checkbox Mirror and Painting with Pixels in p5.js](https://youtu.be/VPnmA4vl6YU?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #26](https://youtu.be/SHtmvl-eYPg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #25](https://youtu.be/ccmg_THE-Ms?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #24](https://youtu.be/WTsNLYQUyfY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #23](https://youtu.be/xKVWcU3ejc0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #22](https://youtu.be/N9ZK_rpr3tY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #21](https://youtu.be/TZVldoG381k?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #20](https://youtu.be/2F6zliBTd-w?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #19](https://youtu.be/n4mignvHPWk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
-* [Live Stream #18](https://youtu.be/7L3wGAoGy4U?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #26: 3D Supershapes](https://youtu.be/SHtmvl-eYPg?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #25: Spherical Geometry](https://youtu.be/ccmg_THE-Ms?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #24: Perlin Noise Flow Field](https://youtu.be/WTsNLYQUyfY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #23: 2D Supershapes](https://youtu.be/xKVWcU3ejc0?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #22: Julia Set in Processing](https://youtu.be/N9ZK_rpr3tY?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #21: Mandelbrot Set with p5.js](https://youtu.be/TZVldoG381k?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #20: 3D Cloth with toxiclibs](https://youtu.be/2F6zliBTd-w?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #19: Superellipse](https://youtu.be/n4mignvHPWk?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
+* [Live Stream #18: 3D Fractal Trees](https://youtu.be/7L3wGAoGy4U?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #17: Processing Live Hour of Code](https://youtu.be/27OPaNaeXMA?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #16: setTimeout(), setInterval()](https://youtu.be/Xe9hQmVJHAo?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
 * [Live Stream #15: Using the Kinect and Processing](https://youtu.be/6wviMtISsyc?list=PLRqwX-V7Uu6bxnFR6no70vlxxuxDEzflz)
